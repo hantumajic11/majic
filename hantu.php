@@ -5,7 +5,9 @@ if (!file_exists('token')) {
 }
 include ("curl.php");
 echo "\n";
-echo "\e[94m                   Hantu Majic                 \n";
+echo "\e[94m                   Hantu Majic                       \n";
+echo "\e[94m            Jangan Kebanyakan Dosalu                 \n";
+echo "\e[94m            Ingat Akhirat Woy                         \n";
 echo "\e[91m FORMAT NOMOR HP : INDONESIA '62***' , US='1***'\n";
 echo "\e[93m -----------------------------------------------\n";
 echo "\n";
