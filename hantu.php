@@ -5,11 +5,12 @@ if (!file_exists('token')) {
 }
 include ("curl.php");
 echo "\n";
-echo "\e[94m                   Hantu Majic                       \n";
-echo "\e[93m            Jangan Kebanyakan Dosalu                 \n";
-echo "\e[98m            Ingat Akhirat Woy                         \n";
+echo "\e[94m                   Hantu Majic                      \n";
+echo "\e[93m            Jangan Kebanyakan Dosalu                \n";
+echo "\e[90m              Ingat Akhirat Woy                      \n";
 echo "\e[91m FORMAT NOMOR HP : INDONESIA '62***' , US='1***'\n";
-echo "\e[93m -----------------------------------------------\n";
+echo "\e[91m             MASIH TANYA KITA BAKU HATAM           \n";
+echo "\e[96m -----------------------------------------------\n";
 echo "\n";
 echo "\e[96m[?] Masukkan Nomor HP Anda (62/1) : ";
 $nope = trim(fgets(STDIN));
